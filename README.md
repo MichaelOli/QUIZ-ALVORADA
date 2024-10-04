@@ -11,7 +11,6 @@ Este projeto é um quiz interativo desenvolvido em Python, utilizando Streamlit,
 ## Tecnologias Utilizadas
 
 - Python
-- Streamlit
 
 ## Pré-requisitos
 
